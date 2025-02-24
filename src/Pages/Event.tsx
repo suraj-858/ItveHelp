@@ -110,8 +110,6 @@ const Event = () => {
           </div>
         </div>
       </section>
-
-      {/* Subscribe Section */}
      <Subscribe/>
       
     </div>
